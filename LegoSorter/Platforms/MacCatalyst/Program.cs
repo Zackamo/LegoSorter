@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace LegoSorter;
+namespace MonkeyFinder;
 
 public class Program
 {

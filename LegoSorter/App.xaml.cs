@@ -1,4 +1,4 @@
-﻿namespace LegoSorter;
+﻿namespace MonkeyFinder;
 
 public partial class App : Application
 {
